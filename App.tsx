@@ -8,7 +8,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Home" component={Like} />
+        <Stack.Screen name="Home" component={Sub} />
       </Stack.Navigator>
     </NavigationContainer>
   );
