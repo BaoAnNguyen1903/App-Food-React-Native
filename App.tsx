@@ -21,8 +21,4 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  text: {
-    fontSize: 60,
-    color: "red",
-  },
 });
